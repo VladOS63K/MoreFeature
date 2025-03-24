@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
 [assembly: AssemblyTitle("MoreFeature")]
-[assembly: AssemblyDescription("MoreFeature - save all secret features of Windows!")]
+[assembly: AssemblyDescription("MoreFeature - find all Windows features and save it!")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Created by VladOS63K")]
 [assembly: AssemblyProduct("MoreFeature")]
